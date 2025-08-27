@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(124, 132, 161);
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul{
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ol{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+    border: 2px solid white;
+}
+div{
+            width:50%;
+            margin-left: 25%;
+        }
+        img{
+            width: 100%;
+        }
+
+#project{
+    text-align: center;
+}
+img#projectpix{
+    border-radius: 0%;
+    width: 100%;
+    height: 100%;
+}
+footer{
+    text-align: center;
+}
